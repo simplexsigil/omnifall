@@ -6,7 +6,6 @@ body {
   display:inline-block;
   width:1em;              /* match current font size */
   height:1em;
-  background:url("/favicon.ico") center/contain no-repeat;
   vertical-align:-0.125em; /* tweak until baseline looks right */
 }
 
